@@ -1,26 +1,12 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=1000&color=F7F7F7&multiline=true&repeat=true&width=435&height=100&lines=Sowmith+Sripadi;Full+Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=500&duration=2000&pause=1000&color=F7F7F7&multiline=true&repeat=true&width=435&height=100&lines=Sowmith+Sripadi;Full+Stack+Developer" alt="Typing SVG" /></a>
 
-<!-- Link to Google Fonts for Fira Code -->
-<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&display=swap" rel="stylesheet">
+<h2 align="left">About me</h2>
+<p align="left">- 🧑🏼‍🎓 I am a computer science graduate student at Florida International University<br>- 📍 Miami, Florida<br></p>
 
-<!-- Apply Fira Code font -->
-<style>
-  body {
-    font-family: 'Fira Code', monospace;
-  }
-  hr {
-    border: none;
-    height: 1px;
-    background-color: #ccc;
-    margin: 20px 0;
-  }
-</style>
 
-#### About Me
-<hr>
+<h2 align="left">My Skill Set</h2>
 
-#### My Skill Set
-<hr>
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -51,5 +37,27 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
 </div>
+<br>
+<br>
+<br>
+<br>
 
-  
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<g id="Layer_1">
+	<path d="M44,1H6C3.243,1,1,3.243,1,6v38c0,2.757,2.243,5,5,5h38c2.757,0,5-2.243,5-5V6C49,3.243,46.757,1,44,1z M47,44
+		c0,1.654-1.346,3-3,3H6c-1.654,0-3-1.346-3-3V6c0-1.654,1.346-3,3-3h38c1.654,0,3,1.346,3,3V44z"></path>
+	<path d="M8,42h8V19H8V42z M10,21h4v19h-4V21z"></path>
+	<path d="M12,7c-2.757,0-5,2.243-5,5s2.243,5,5,5s5-2.243,5-5S14.757,7,12,7z M12,15c-1.654,0-3-1.346-3-3s1.346-3,3-3s3,1.346,3,3
+		S13.654,15,12,15z"></path>
+	<path d="M31,19c-1.363,0-2.703,0.308-4,0.916V19h-8v23h8V31c0-2.206,1.794-4,4-4s4,1.794,4,4v11h8V31C43,24.383,37.617,19,31,19z
+		 M41,40h-4v-9c0-3.309-2.691-6-6-6s-6,2.691-6,6v9h-4V21h4v2.521l1.561-1.057C27.996,21.493,29.489,21,31,21
+		c5.514,0,10,4.486,10,10V40z"></path>
+</g>
+<g>
+</g>
+</svg>
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="512" height="512"><g id="Outline"><g><circle cx="7" cy="7" r="1"></circle><circle cx="11" cy="7" r="1"></circle><circle cx="15" cy="7" r="1"></circle><path d="M24,6a1,1,0,0,0,0,2h9a1,1,0,0,0,0-2Z"></path><path d="M39,6a1,1,0,0,0,0,2H54a1,1,0,0,0,0-2Z"></path><path d="M61,36a1,1,0,0,0-1,1V60H4V24a1,1,0,0,0-2,0V61a1,1,0,0,0,1,1H61a1,1,0,0,0,1-1V37A1,1,0,0,0,61,36Z"></path><path d="M61,2H3A1,1,0,0,0,2,3V20a1,1,0,0,0,2,0V12H57a1,1,0,0,0,0-2H20V4H60V28H24.32a1,1,0,0,0,0,2H60v3a1,1,0,0,0,2,0V3A1,1,0,0,0,61,2ZM18,10H4V4H18Z"></path><path d="M10.6,33.23h0a7.9,7.9,0,0,0,6.76,0h0a8,8,0,1,0-6.8,0ZM14,28a2,2,0,1,1,2-2A2,2,0,0,1,14,28Zm-2,3.65V31a1,1,0,0,1,1-1h2a1,1,0,0,1,1,1v.65a5.89,5.89,0,0,1-4,0ZM14,20A6,6,0,0,1,18,30.51a3,3,0,0,0-1-1.8,4,4,0,1,0-5.84,0,3,3,0,0,0-1,1.8A6,6,0,0,1,14,20Z"></path><path d="M28,17h1a1,1,0,0,0,0-2H28a3,3,0,0,0-3,3v1H24a1,1,0,0,0,0,2h1v3a1,1,0,0,0,2,0V21h1a1,1,0,0,0,0-2H27V18A1,1,0,0,1,28,17Z"></path><path d="M39,25a3,3,0,0,0,3-3V18a3,3,0,0,0-3-3H35a3,3,0,0,0-3,3v4a3,3,0,0,0,3,3Zm-5-3V18a1,1,0,0,1,1-1h4a1,1,0,0,1,1,1v4a1,1,0,0,1-1,1H35A1,1,0,0,1,34,22Z"></path><circle cx="37" cy="20" r="1"></circle><path d="M50.49,25a1,1,0,0,0,.71-.29l3.93-3.93a3.39,3.39,0,0,0,0-4.79,3.47,3.47,0,0,0-4.64-.14,3.39,3.39,0,0,0-4.64,4.93l3.93,3.93A1,1,0,0,0,50.49,25Zm-3.63-6.62a1.36,1.36,0,0,1,.41-1,1.38,1.38,0,0,1,1-.41,1.41,1.41,0,0,1,1,.4l.56.57a1,1,0,0,0,1.42,0l.56-.56a1.42,1.42,0,0,1,2,0,1.39,1.39,0,0,1,.4,1,1.38,1.38,0,0,1-.4,1l-3.23,3.23-3.22-3.23A1.39,1.39,0,0,1,46.86,18.38Z"></path><path d="M6,42a1,1,0,0,0,1,1H21a1,1,0,0,0,1-1V38a1,1,0,0,0-1-1H7a1,1,0,0,0-1,1Zm2-3H20v2H8Z"></path><path d="M7,47H21a1,1,0,0,0,0-2H7a1,1,0,0,0,0,2Z"></path><path d="M7,51H21a1,1,0,0,0,0-2H7a1,1,0,0,0,0,2Z"></path><path d="M7,55H21a1,1,0,0,0,0-2H7a1,1,0,0,0,0,2Z"></path><path d="M29,36a1,1,0,0,0,0,2H55a1,1,0,0,0,1-1V33a1,1,0,0,0-1-1H29a1,1,0,0,0,0,2H54v2Z"></path><path d="M29,49a1,1,0,0,0-1,1v3a1,1,0,0,0,1,1H55a1,1,0,0,0,1-1V41a1,1,0,0,0-1-1H29a1,1,0,0,0-1,1v5a1,1,0,0,0,2,0V42H54V52H48.62l-2.73-5.45a1,1,0,0,0-1.78,0L43,48.76l-2.11-4.21a1,1,0,0,0-1.78,0L37,48.76l-1.11-2.21a1,1,0,0,0-1.78,0L31.38,52H30V50A1,1,0,0,0,29,49Zm16,.24L46.38,52H44.62l-.5-1Zm-5-2L42.38,52H37.62Zm-5,2L35.88,51l-.5,1H33.62Z"></path><circle cx="49" cy="45" r="1"></circle><path d="M29,58H45a1,1,0,0,0,0-2H29a1,1,0,0,0,0,2Z"></path><path d="M55,56H51a1,1,0,0,0,0,2h4a1,1,0,0,0,0-2Z"></path></g></g></svg>
+
