@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&letterSpacing=1px&duration=1000&pause=3000&color=F7F7F7&multiline=true&width=435&lines=Sowmith+Sripadi+;Full+Stack+Developer" alt="Typing SVG" /></a>
 
 <!--
 **SowmithSripadi/SowmithSripadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
