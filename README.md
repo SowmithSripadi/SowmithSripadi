@@ -1,9 +1,26 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=1000&color=F7F7F7&multiline=true&repeat=false&width=435&height=100&lines=Sowmith+Sripadi;Full+Stack+Developer" alt="Typing SVG" /></a>
 
-### About Me
+<!-- Link to Google Fonts for Fira Code -->
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&display=swap" rel="stylesheet">
 
+<!-- Apply Fira Code font -->
+<style>
+  body {
+    font-family: 'Fira Code', monospace;
+  }
+  hr {
+    border: none;
+    height: 1px;
+    background-color: #ccc;
+    margin: 20px 0;
+  }
+</style>
 
-### My Skill Set  
+#### About Me
+<hr>
+
+#### My Skill Set
+<hr>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
