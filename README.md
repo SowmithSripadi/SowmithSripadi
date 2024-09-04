@@ -43,7 +43,9 @@
 <br>
 
 
-[![Alt Text](https://github.com/sowmithsripadi/sowmithsripadi/blob/main/assets/profile.png)](https://sowmithsripadi.com)
+<a href="sowmithsripadi.com" target="_blank">
+  <img src="https://github.com/sowmithsripadi/sowmithsripadi/blob/main/assets/P.svg" alt="Profile" width="70" height="49" />
+</a>
 <a href="https://www.linkedin.com/in/sowmithsripadi" target="_blank">
   <img src="https://github.com/sowmithsripadi/sowmithsripadi/blob/main/assets/linkedin.svg" alt="LinkedIn" width="45" height="45" />
 </a>
