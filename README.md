@@ -38,11 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
 </div>
 <br>
-<br>
-<br>
-<br>
 
-
+<h6 align="left">Connect with me:</h6>
 <a href="sowmithsripadi.com" target="_blank">
   <img src="https://github.com/sowmithsripadi/sowmithsripadi/blob/main/assets/P.svg" alt="Profile" width="70" height="49" />
 </a>
