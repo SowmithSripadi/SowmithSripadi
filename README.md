@@ -36,7 +36,7 @@
 <br>
 
 <h6 align="left">Connect with me:</h6>
-<a href="sowmithsripadi.com" target="_blank">
+<a href="https://sowmithsripadi.com" target="_blank">
   <img src="https://github.com/sowmithsripadi/sowmithsripadi/blob/main/assets/P.svg" alt="Profile" width="70" height="49" />
 </a>
 <a href="https://www.linkedin.com/in/sowmithsripadi" target="_blank">
