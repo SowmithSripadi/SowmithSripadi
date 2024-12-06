@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=500&duration=2000&pause=1000&multiline=true&repeat=true&width=435&height=100&lines=Sowmith+Sripadi;Full+Stack+Developer" alt="Typing SVG" /></a>
 
 <h2 align="left">About me</h2>
-<p align="left">- 🧑🏼‍🎓 I am a computer science graduate student at Florida International University</p>
+<p align="left">- 🧑🏼‍🎓 I am a computer science graduate student</p>
 
 
 <h2 align="left">My Skill Set</h2>
